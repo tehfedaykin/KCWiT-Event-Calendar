@@ -1,0 +1,22 @@
+{
+  "name": "kcwit-event-calendar",
+  "version": "0.0.0",
+  "description": "aggregating kcwit events via eventbrite",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tehfedaykin/KCWiT-Event-Calendar"
+  },
+  "keywords": [
+    "kcwit",
+    "events"
+  ],
+  "author": "Jennifer Wadella",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/tehfedaykin/KCWiT-Event-Calendar/issues"
+  }
+}
